@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "180964838386",
+    "project_id": "skillswap-7fd3a",
+    "storage_bucket": "skillswap-7fd3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180964838386:android:8dcc7d229f9f713c76396b",
+        "android_client_info": {
+          "package_name": "com.example.our_own_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180964838386-hvg7nv4890enrcmuu52f5mhtpm1059hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlo78ge7k8JKGzgzybSruthT4J69gKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180964838386-hvg7nv4890enrcmuu52f5mhtpm1059hb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180964838386-40baaivr9ejo7rqinn7u70hrjfg45d17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skillSwapApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180964838386:android:484e41bb1b918ac476396b",
+        "android_client_info": {
+          "package_name": "com.example.skill_swap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180964838386-dgq2mb1g6pp9666p1kice2iosicpccgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skill_swap_app",
+            "certificate_hash": "e2e1713c5dc960df46dd1e72e21f5ece0d8a1307"
+          }
+        },
+        {
+          "client_id": "180964838386-hvg7nv4890enrcmuu52f5mhtpm1059hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlo78ge7k8JKGzgzybSruthT4J69gKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180964838386-hvg7nv4890enrcmuu52f5mhtpm1059hb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180964838386-40baaivr9ejo7rqinn7u70hrjfg45d17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skillSwapApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
