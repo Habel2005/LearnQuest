@@ -143,12 +143,12 @@ class MyApp extends StatelessWidget {
         //   textStyle: (TextStyle(color: Colors.white)), // Text color globally for dropdown items
         // ),
 
-        tabBarTheme: const TabBarTheme(
-          labelColor: Color.fromARGB(
-              255, 74, 47, 95), // Color for the selected tab text
-          unselectedLabelColor:
-              Colors.white, // Color for the unselected tab text
-        ),
+        // tabBarTheme: const TabBarTheme(
+        //   labelColor: Color.fromARGB(
+        //       255, 74, 47, 95), // Color for the selected tab text
+        //   unselectedLabelColor:
+        //       Colors.white, // Color for the unselected tab text
+        // ),
 
         inputDecorationTheme: InputDecorationTheme(
           labelStyle: const TextStyle(color: Colors.white), // Label text color
