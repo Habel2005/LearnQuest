@@ -1,23 +1,39 @@
-# our_own_project
+# LearnQuest 🚀
 
-A new Flutter project.
+LearnQuest is an AI-powered micro-learning platform designed to help students learn faster through curated resources, smart recommendations, and community-driven learning.
 
-## Getting Started
+Built using Flutter and a Python backend, LearnQuest combines AI, web scraping, and educational APIs to generate personalized learning experiences for different skill levels.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 AI-generated learning paths
+- 🔍 Smart course/resource search
+- 🎯 Beginner → Intermediate → Expert learning flow
+- 🧠 Personalized recommendations
+- 🌐 Web-scraped learning resources
+- 🎥 Video & article based learning
+- 👥 Community discussion system
+- 🔔 Real-time notifications with Firebase
+- 📱 Modern Flutter mobile application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Frontend:** Flutter
+- **Backend:** Python
+- **Database:** Firebase
+- **APIs:** Gemini, GitHub API, Groq AI, SERP API
+- **Notifications:** Firebase Cloud Messaging (FCM)
 
+## 📸 Screenshots & Detailed Showcase
 
+👉 [View Full Project Showcase](https://habel2005.github.io/Portfolio/project.html?project=learnquest)
 
-<img src="https://static.scarf.sh/a.png?x-pxid=0b994c4e-62ce-47f6-8af6-27235e610eec" width="0" height="0" alt="" />
+(Add app screenshots, workflow explanation, architecture, and demo video inside the showcase page.)
 
+## 🚀 Goal
 
-<img src="https://omni-dash-five.vercel.app/api/track?project=LearnQuest&source=github-readme" width="0" height="0" alt="" />
+LearnQuest focuses on making learning simple, personalized, and accessible through AI-powered micro-learning experiences.
+
+---
+
+Made with passion for students and self-learners.
